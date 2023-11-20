@@ -48,7 +48,7 @@ public class Funciones {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nombre: ");
         obxTrabajador.setNombre(sc.nextLine());
-        System.out.println("Sueldo: ");
+        System.out.println("Sueldo(escriba '0' para terminar el programa): ");
         obxTrabajador.setSueldo(sc.nextDouble());
         return obxTrabajador;
     }
