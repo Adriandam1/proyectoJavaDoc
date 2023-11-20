@@ -39,6 +39,7 @@ public class Funciones {
     /**
      * Alta trabajador
      * @return trabajador creado
+     * v 2.0
      */
     public static Trabajador darAltaTrabajador(){
         Trabajador obxTrabajador= new Trabajador();
